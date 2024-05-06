@@ -259,27 +259,27 @@ background: -webkit-linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(240,240,2
 background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(240,240,240,1) 50%, rgba(255,222,88,1) 100%);
 filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ffffff",endColorstr="#ffde58",GradientType=1);
 }
-.card-img-top{
+.menu .card-img-top{
 border-radius: 50px;
 padding: 20px;
 }
-.card{
+.menu .card{
 border-radius: 30px;
 box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px 0px;
 }
-.card-body{
+.menu.card-body{
 padding: 25px;
 margin-top: -15px;
 }
-.btn-primary{
+.menu .btn-primary{
 border-radius: 50px;
 width: 200px;
 }
-.btn-primary:hover{
+.menu .btn-primary:hover{
 background-color: black;
 border: none;
 }
-h3,h5{
+.menu h3,h5{
 color: rgb(0, 91, 228);
 }
 /* BOOK */
